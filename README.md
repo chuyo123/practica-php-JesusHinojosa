@@ -12,4 +12,4 @@ El objetivo de este proyecto es el manejo de productos y usuarios para tener un 
 INTEGRANTES
 Jesus Hinojosa
 
-El proyecto fue hecho en laravel, asi que no se necesita otro tipo de instalacion, en la carpeta db estan el archivo que contiene las lineas de codigo para crear la base de datos.
+El proyecto fue hecho en laravel, asi que no se necesita otro tipo de instalacion, en la carpeta db estan el archivo que contiene las lineas de codigo para crear la base de datos y en archivo carpetas.txt especifica el contenido de cada carpeta.
