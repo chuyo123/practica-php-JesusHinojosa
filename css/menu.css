@@ -1,0 +1,66 @@
+html,body {
+    height:100%;
+    padding-top:70px;
+}
+
+
+section {
+  height:calc(90% - 50px);
+}
+
+.affix {
+  padding:0px;
+  -webkit-transition:padding 0.2s linear;
+  -moz-transition:padding 0.2s linear;  
+  -o-transition:padding 0.2s linear;         
+  transition:padding 0.2s linear;  
+
+}
+
+.affix-top {
+  padding-top:15px;
+  padding-bottom:15px;
+  -webkit-transition:padding 0.5s linear;
+  -moz-transition:padding 0.5s linear;  
+  -o-transition:padding 0.5s linear;         
+  transition:padding 0.5s linear;  
+}
+section{/*esto va de bajo de la caja cebecera*/
+  padding-top: 7.5vw;/*espacio para comenzar en este caso es hasta arriba
+  /*background-size: cover;/*la imagen de fondo se rellena para que no quede espacio
+  background-position: center center;la imagen de fondo queda al centro*/
+  width: 99vw;/*anchura de la imagen*/
+  height: 100vh;/*altura de la imagen*/
+}
+section .box-title{
+  width: 100vw;
+}
+
+footer{/*parte de abajo de la pagina*/
+  background-color: gray;/*color de pie de pagina*/
+  width: 96vw;/*anchura de pie de pagina*/
+  padding: 1vw 2vw;/*rellena el espacio del pie de pagina*/
+}
+
+footer p{/*texto en pie de pagina*/
+  margin: 0;/*margen*/
+  padding: 0;/*relleno*/
+  color: #fff;/*color del texto*/
+}
+.desc	{
+  border: 2px;
+  margin: 20px;
+}
+  .borde	{
+  display: flex;
+  width: 100vw;
+  height: 305px;
+  margin-top: 1px;
+  justify-content: center;
+  align-items: center;
+}
+
+.borde img{
+  margin: 0 20px;
+  object-fit: cover;
+}
