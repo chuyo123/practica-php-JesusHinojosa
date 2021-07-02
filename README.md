@@ -1,4 +1,4 @@
-# FiestasDeOctubre
+# Fiestas De Octubre
 Punto de venta y administrador de usuarios
 DESCRIPCION DEL PROYECTO
 De primera instancia tenemos un login para ingresar al sistema y registrarnos
